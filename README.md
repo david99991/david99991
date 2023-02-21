@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @david99991
+- 👋 Hi, I’m David
 - 👀 I’m interested in 3D computer graphics
 - 🌱 I’m currently learning Processing
 - 💞️ I’m looking to collaborate on ...
