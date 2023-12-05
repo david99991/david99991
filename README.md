@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in 3D computer graphics
-- 🌱 I’m currently learning Houdini and Unity
+- 🌱 I’m currently learning Houdini, Blender and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
